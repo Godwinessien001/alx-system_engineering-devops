@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > ls_pwd_content
+ls -la | touch > ls_pwd_content
